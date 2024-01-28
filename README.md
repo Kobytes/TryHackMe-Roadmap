@@ -20,17 +20,17 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **9**      |          **9**             |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **9**       |          **9**            |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **3**           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
+| **[Reconnaissance](#recon)**                      |     **10**      |        **2**              |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |                           |
+| **[Networking](#networking)**                     |      **6**      |        **4**              |
+| **[Tooling](#tooling)**                           |     **15**      |        **1**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **27**      |                           |
+| **[Web](#web)**                                   |     **27**      |        **2**              |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
@@ -74,37 +74,35 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
 ---
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [x] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
@@ -112,7 +110,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
+- [x] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
@@ -120,11 +118,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [x] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
@@ -166,15 +164,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [x] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -184,15 +180,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
-
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+- [x] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
 - [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-
-- [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
@@ -234,11 +226,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-- [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
 - [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
@@ -250,19 +238,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
-
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
-
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [x] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
 - [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 - [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
@@ -276,19 +258,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-- [ ] [TryHackMe | Injection](https://tryhackme.com/room/injection)
-
-- [ ] [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
-
-- [ ] [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
-
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 

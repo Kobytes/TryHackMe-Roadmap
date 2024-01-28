@@ -30,14 +30,14 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **27**      |        **2**              |
+| **[Web](#web)**                                   |     **21**      |        **2**              |
 | **[Android](#android)**                           |      **1**      |                           |
-| **[Forensics](#forensics)**                       |      **5**      |                           |
+| **[Forensics](#forensics)**                       |      **4**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
-| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
+| **[Reverse Engineering](#reverse-engineering)**   |     **6**       |                           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
-| **[Windows](#windows)**                           |      **7**      |                           |
+| **[Privilege Escalation](#privesc)**              |     **13**      |       **1**               |
+| **[Windows](#windows)**                           |      **7**      |       **1**               |
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
@@ -46,7 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **378**     |           **29**          |
+| **Total Rooms:**                                  |     **361**     |           **31**          |
+| **Percentage of completion (%)**                  |     **8.59%**   |
 
 ## Intro Rooms
 
@@ -296,8 +297,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
 
-- [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
-
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
@@ -310,19 +309,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
-
 - [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
-
-- [ ] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
 
 - [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
 - [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
-
-- [ ] [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
-
-- [ ] [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 
 - [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
@@ -372,7 +363,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [x] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
 - [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
@@ -394,7 +385,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
-- [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
+- [x] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
 

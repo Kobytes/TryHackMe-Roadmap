@@ -25,7 +25,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |        **2**              |
-| **[Scripting](#scripting)**                       |      **8**      |        **1**              |
+| **[Scripting](#scripting)**                       |      **8**      |        **2**              |
 | **[Networking](#networking)**                     |      **6**      |        **4**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **32**          |
-| **Percentage of completion (%)**                  |     **8.86%**   |
+| **Total Rooms:**                                  |     **361**     |           **33**          |
+| **Percentage of completion (%)**                  |     **9.14%**   |
 
 ## Intro Rooms
 

@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **31**          |
-| **Percentage of completion (%)**                  |     **8.59%**   |
+| **Total Rooms:**                                  |     **361**     |           **32**          |
+| **Percentage of completion (%)**                  |     **8.86%**   |
 
 ## Intro Rooms
 

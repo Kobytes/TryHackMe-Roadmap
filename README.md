@@ -151,7 +151,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [x] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 

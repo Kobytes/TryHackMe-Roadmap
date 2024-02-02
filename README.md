@@ -25,7 +25,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |        **2**              |
-| **[Scripting](#scripting)**                       |      **8**      |                           |
+| **[Scripting](#scripting)**                       |      **8**      |        **1**              |
 | **[Networking](#networking)**                     |      **6**      |        **4**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
@@ -143,7 +143,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 

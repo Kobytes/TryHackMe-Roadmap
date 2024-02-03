@@ -21,7 +21,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **9**       |          **9**            |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **3**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |        **2**              |
@@ -46,7 +46,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **33**          |
+| **Total Rooms:**                                  |     **361**     |           **34**          |
 | **Percentage of completion (%)**                  |     **9.14%**   |
 
 ## Intro Rooms
@@ -75,7 +75,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 

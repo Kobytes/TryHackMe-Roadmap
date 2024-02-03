@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
-| **[Reconnaissance](#recon)**                      |     **10**      |        **2**              |
+| **[Reconnaissance](#recon)**                      |     **10**      |        **3**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **2**              |
 | **[Networking](#networking)**                     |      **6**      |        **4**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **34**          |
-| **Percentage of completion (%)**                  |     **9.41%**   |
+| **Total Rooms:**                                  |     **361**     |           **35**          |
+| **Percentage of completion (%)**                  |     **9.69%**   |
 
 ## Intro Rooms
 
@@ -125,7 +125,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 

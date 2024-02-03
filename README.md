@@ -47,7 +47,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
 | **Total Rooms:**                                  |     **361**     |           **34**          |
-| **Percentage of completion (%)**                  |     **9.14%**   |
+| **Percentage of completion (%)**                  |     **9.41%**   |
 
 ## Intro Rooms
 

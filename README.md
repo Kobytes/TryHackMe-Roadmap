@@ -26,7 +26,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |        **5**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
-| **[Networking](#networking)**                     |      **6**      |        **4**              |
+| **[Networking](#networking)**                     |      **6**      |        **5**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **38**          |
-| **Percentage of completion (%)**                  |     **10.52%**   |
+| **Total Rooms:**                                  |     **361**     |           **39**          |
+| **Percentage of completion (%)**                  |     **10.80%**   |
 
 ## Intro Rooms
 
@@ -163,7 +163,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 

@@ -28,7 +28,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
 | **[Networking](#networking)**                     |      **6**      |        **5**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **2**              |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **1**              |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **2**              |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **21**      |        **2**              |
 | **[Android](#android)**                           |      **1**      |                           |
@@ -46,7 +46,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **41**          |
+| **Total Rooms:**                                  |     **361**     |           **42**          |
 | **Percentage of completion (%)**                  |     **11.35%**   |
 
 ## Intro Rooms
@@ -215,7 +215,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [x] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 

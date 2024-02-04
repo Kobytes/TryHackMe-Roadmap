@@ -1,5 +1,4 @@
 # TryHackMe Road Map
-<script src="https://tryhackme.com/badge/1850139"></script>
 ---
 
 <br/>

@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
-| **[Reconnaissance](#recon)**                      |     **10**      |        **3**              |
+| **[Reconnaissance](#recon)**                      |     **10**      |        **4**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **2**              |
 | **[Networking](#networking)**                     |      **6**      |        **4**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **35**          |
-| **Percentage of completion (%)**                  |     **9.69%**   |
+| **Total Rooms:**                                  |     **361**     |           **36**          |
+| **Percentage of completion (%)**                  |     **9.97%**   |
 
 ## Intro Rooms
 
@@ -129,7 +129,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 

@@ -27,7 +27,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Reconnaissance](#recon)**                      |     **10**      |        **5**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
 | **[Networking](#networking)**                     |      **6**      |        **5**              |
-| **[Tooling](#tooling)**                           |     **15**      |        **1**              |
+| **[Tooling](#tooling)**                           |     **15**      |        **2**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **21**      |        **2**              |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **39**          |
-| **Percentage of completion (%)**                  |     **10.80%**   |
+| **Total Rooms:**                                  |     **361**     |           **40**          |
+| **Percentage of completion (%)**                  |     **11.08%**   |
 
 ## Intro Rooms
 
@@ -179,7 +179,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [x] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
 - [x] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 

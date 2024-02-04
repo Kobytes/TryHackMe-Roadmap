@@ -28,7 +28,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
 | **[Networking](#networking)**                     |      **6**      |        **5**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **2**              |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **2**              |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **3**              |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **21**      |        **2**              |
 | **[Android](#android)**                           |      **1**      |                           |
@@ -217,7 +217,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
-- [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+- [x] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
 - [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 

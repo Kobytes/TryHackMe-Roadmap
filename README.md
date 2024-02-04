@@ -28,7 +28,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
 | **[Networking](#networking)**                     |      **6**      |        **5**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **2**              |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **3**              |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **4**              |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **21**      |        **2**              |
 | **[Android](#android)**                           |      **1**      |                           |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **43**          |
-| **Percentage of completion (%)**                  |     **11.91%**   |
+| **Total Rooms:**                                  |     **361**     |           **44**          |
+| **Percentage of completion (%)**                  |     **12%**   |
 
 ## Intro Rooms
 
@@ -219,7 +219,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [x] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 

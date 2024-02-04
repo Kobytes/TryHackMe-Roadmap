@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **4**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |              **3**        |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **5**             |
-| **[Reconnaissance](#recon)**                      |     **10**      |        **4**              |
+| **[Reconnaissance](#recon)**                      |     **10**      |        **5**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **2**              |
 | **[Networking](#networking)**                     |      **6**      |        **4**              |
 | **[Tooling](#tooling)**                           |     **15**      |        **1**              |
@@ -46,8 +46,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **36**          |
-| **Percentage of completion (%)**                  |     **9.97%**   |
+| **Total Rooms:**                                  |     **361**     |           **37**          |
+| **Percentage of completion (%)**                  |     **10.24%**   |
 
 ## Intro Rooms
 
@@ -121,7 +121,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [x] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [x] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 

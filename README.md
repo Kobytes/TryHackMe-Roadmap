@@ -26,7 +26,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Reconnaissance](#recon)**                      |     **10**      |        **5**              |
 | **[Scripting](#scripting)**                       |      **8**      |        **3**              |
 | **[Networking](#networking)**                     |      **6**      |        **5**              |
-| **[Tooling](#tooling)**                           |     **15**      |        **2**              |
+| **[Tooling](#tooling)**                           |     **15**      |        **3**              |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |        **4**              |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **21**      |        **2**              |
@@ -45,8 +45,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **361**     |           **44**          |
-| **Percentage of completion (%)**                  |     **12.18%**   |
+| **Total Rooms:**                                  |     **361**     |           **45**          |
+| **Percentage of completion (%)**                  |     **12.46%**   |
 
 ## Intro Rooms
 
@@ -184,7 +184,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
